@@ -1,0 +1,6 @@
+<meta>
+	<info author="Abraham Raymundo" version="1.1" type="script" name="Sistema de Apariencias de Theft Operation"/>
+	<script src="skin_s.lua" type="server" />
+    <script src="skin_c.lua" type="client" cache="false" />
+	<file src="apariencias.xml" />
+</meta>
